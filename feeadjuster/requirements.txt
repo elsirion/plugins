@@ -1,2 +1,2 @@
-pyln-client>=0.12
-semver==2.*
+pyln-client
+semver
